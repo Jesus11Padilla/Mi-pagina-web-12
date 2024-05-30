@@ -1,0 +1,66 @@
+body
+{
+  font-family: "Lato", sans-serif;
+  background:linear-gradient(0deg,#B808F1,#0FF108);
+}
+h1
+{
+ font-size:40px;
+ color:#550F89;
+ text-decoration:underline;
+ font-style:italic;
+ letter-spacing: 5px;
+ word-spacing:10px;
+ text-shadow:15px 6px 10px  #000000; 
+}
+
+img
+{
+width:400px;
+border-radius:10px;
+border-color:#F10808;
+border-style:solid;
+border-width:5px;    
+}
+
+button
+{
+  background:#D4FF00;
+  font-size:20px;
+  font-family: "Lato", sans-serif;
+  border-widht:5px;
+  border-radius:8px;
+  padding:12px;
+  cursor:pointer;
+  
+}
+
+
+form
+{
+display:flex;
+flex-direction: column;
+width:300px;
+background: #FFCE90;
+padding:18px;
+border-radius:8px;  
+}
+
+input
+{
+  border: 0px;
+  outline:none;
+  border-radius: 4px;
+  margin-bottom: 12px;
+  background: #5CFF73 ;
+}
+
+
+textarea
+{
+  border:0;
+  outline: none;
+  border-radius:4px;
+  
+  
+}
